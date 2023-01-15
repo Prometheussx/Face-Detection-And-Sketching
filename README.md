@@ -3,9 +3,10 @@
 ### The basics of the project are based on determining the extreme points of the contour area determined by color masking in the roi area of the face and drawing lines between these points to make a mold of the sad shape, and the angles between these line lines are obtained by mathematical operations and we can obtain data with the body shape.
 
 - ## Mathematical Process
+- ### Geometric Expression
+![Adsız](https://user-images.githubusercontent.com/54312783/212549449-15f729f1-0b86-40d7-9349-39f345376819.png)
 
-
-
+- ### Code Draft
 ![Ekran görüntüsü 2023-01-15 180316](https://user-images.githubusercontent.com/54312783/212549343-14d142fb-f0e5-463d-b061-37dab2f1940b.png)
 
 - ## Images from the project
